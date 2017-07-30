@@ -1,0 +1,326 @@
+[
+  {
+    "id": "0001",
+    "name": "Lighthouse Christian School"
+  },
+  {
+    "id": "0003",
+    "name": "Allora P-10 State School"
+  },
+  {
+    "id": "0004",
+    "name": "Bald Hills State School"
+  },
+  {
+    "id": "0005",
+    "name": "Fraser Coast Anglican College"
+  },
+  {
+    "id": "0006",
+    "name": "Beenleigh State School"
+  },
+  {
+    "id": "0008",
+    "name": "Yeronga State School"
+  },
+  {
+    "id": "0009",
+    "name": "Tamborine Mountain College"
+  },
+  {
+    "id": "0010",
+    "name": "Bowen State School"
+  },
+  {
+    "id": "0011",
+    "name": "Windsor State School"
+  },
+  {
+    "id": "0013",
+    "name": "Toowong State School"
+  },
+  {
+    "id": "0014",
+    "name": "Southern Cross Catholic College (Scarborough)"
+  },
+  {
+    "id": "0016",
+    "name": "Brookfield State School"
+  },
+  {
+    "id": "0017",
+    "name": "Bulimba State School"
+  },
+  {
+    "id": "0018",
+    "name": "Bundaberg Central State School"
+  },
+  {
+    "id": "0019",
+    "name": "Bundamba State School"
+  },
+  {
+    "id": "0020",
+    "name": "Calliope State School"
+  },
+  {
+    "id": "0021",
+    "name": "Clermont State School"
+  },
+  {
+    "id": "0022",
+    "name": "Cleveland State School"
+  },
+  {
+    "id": "0023",
+    "name": "Ormiston State School"
+  },
+  {
+    "id": "0024",
+    "name": "Condamine State School"
+  },
+  {
+    "id": "0025",
+    "name": "Acacia Ridge State School"
+  },
+  {
+    "id": "0027",
+    "name": "Mitchell State School"
+  },
+  {
+    "id": "0028",
+    "name": "Dalby State School"
+  },
+  {
+    "id": "0029",
+    "name": "Ramsay State School"
+  },
+  {
+    "id": "0031",
+    "name": "Drayton State School"
+  },
+  {
+    "id": "0032",
+    "name": "Coowonga State School"
+  },
+  {
+    "id": "0033",
+    "name": "Hendra State School"
+  },
+  {
+    "id": "0034",
+    "name": "Eight Mile Plains State School"
+  },
+  {
+    "id": "0035",
+    "name": "Enoggera State School"
+  },
+  {
+    "id": "0036",
+    "name": "Fig Tree Pocket State School"
+  },
+  {
+    "id": "0038",
+    "name": "Albert State School"
+  },
+  {
+    "id": "0039",
+    "name": "Woongoolba State School"
+  },
+  {
+    "id": "0040",
+    "name": "Freestone State School"
+  },
+  {
+    "id": "0041",
+    "name": "Gatton State School"
+  },
+  {
+    "id": "0042",
+    "name": "Gayndah State School"
+  },
+  {
+    "id": "0043",
+    "name": "Nundah State School"
+  },
+  {
+    "id": "0044",
+    "name": "Gladstone Central State School"
+  },
+  {
+    "id": "0045",
+    "name": "Goodna State School"
+  },
+  {
+    "id": "0046",
+    "name": "Goondiwindi State School"
+  },
+  {
+    "id": "0047",
+    "name": "Gracemere State School"
+  },
+  {
+    "id": "0049",
+    "name": "Gympie Central State School"
+  },
+  {
+    "id": "0050",
+    "name": "Gilston State School"
+  },
+  {
+    "id": "0051",
+    "name": "One Mile State School"
+  },
+  {
+    "id": "0052",
+    "name": "Helidon State School"
+  },
+  {
+    "id": "0053",
+    "name": "Highfields State School"
+  },
+  {
+    "id": "0054",
+    "name": "Geham State School"
+  },
+  {
+    "id": "0055",
+    "name": "Inglewood State School"
+  },
+  {
+    "id": "0057",
+    "name": "Bouldercombe State School"
+  },
+  {
+    "id": "0058",
+    "name": "Gunalda State School"
+  },
+  {
+    "id": "0059",
+    "name": "Ipswich Central State School"
+  },
+  {
+    "id": "0060",
+    "name": "Craigslea State School"
+  },
+  {
+    "id": "0061",
+    "name": "Ipswich North State School"
+  },
+  {
+    "id": "0062",
+    "name": "Sunnybank State School"
+  },
+  {
+    "id": "0063",
+    "name": "Isisford State School"
+  },
+  {
+    "id": "0064",
+    "name": "Jondaryan State School"
+  },
+  {
+    "id": "0065",
+    "name": "Biggera Waters State School"
+  },
+  {
+    "id": "0067",
+    "name": "Lakes Creek State School"
+  },
+  {
+    "id": "0068",
+    "name": "Leyburn State School"
+  },
+  {
+    "id": "0069",
+    "name": "Logan Reserve State School"
+  },
+  {
+    "id": "0070",
+    "name": "Loganholme State School"
+  },
+  {
+    "id": "0071",
+    "name": "Mackay Central State School"
+  },
+  {
+    "id": "0072",
+    "name": "Maryborough Central State School"
+  },
+  {
+    "id": "0073",
+    "name": "Moggill State School"
+  },
+  {
+    "id": "0074",
+    "name": "Osborne State School"
+  },
+  {
+    "id": "0075",
+    "name": "Mount Perry State School"
+  },
+  {
+    "id": "0076",
+    "name": "Murphy's Creek State School"
+  },
+  {
+    "id": "0077",
+    "name": "Nanango State School"
+  },
+  {
+    "id": "0078",
+    "name": "Sherwood State School"
+  },
+  {
+    "id": "0079",
+    "name": "Oxley State School"
+  },
+  {
+    "id": "0080",
+    "name": "Petrie Terrace State School"
+  },
+  {
+    "id": "0081",
+    "name": "Pimpama State School"
+  },
+  {
+    "id": "0082",
+    "name": "Western Cape College - Mapoon"
+  },
+  {
+    "id": "0084",
+    "name": "Gabbinbar State School"
+  },
+  {
+    "id": "0085",
+    "name": "Kenmore SHS - Special Education Program"
+  },
+  {
+    "id": "0086",
+    "name": "Peak Crossing State School"
+  },
+  {
+    "id": "0088",
+    "name": "Redbank Plains State School"
+  },
+  {
+    "id": "0089",
+    "name": "Lockyer District SHS - Special Education Program"
+  },
+  {
+    "id": "0091",
+    "name": "Islamic College of Brisbane"
+  },
+  {
+    "id": "0092",
+    "name": "Rolleston State School"
+  },
+  {
+    "id": "0094",
+    "name": "Samford State School"
+  },
+  {
+    "id": "0096",
+    "name": "Ananda Marga River School"
+  }
+]

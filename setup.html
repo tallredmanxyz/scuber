@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <title>SCUBER</title>
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
+
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyA7Vj4ayCy2YNZ_P786CV8tqiQ5Qkx5zD4"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/dist/typeahead.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typeahead-addresspicker/0.1.4/typeahead-addresspicker.min.js"></script>
+
+
+    <link id="link" href="css/styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div class="school">
+        <!--<div class="header1">Your School</div>-->
+        <input class="typeahead scuber-input" data-provider="typeahead" placeholder="Your School" />
+
+        <!--<div class="header1">Your Address</div>-->
+        <input class="scuber-input" id="address" type="text" placeholder="Your Home Address">
+
+
+    </div>
+
+    <div class="button-choices">
+        <a href="conditions.html" class="scuber-button">
+            Check current conditions
+        </a>
+
+        <a href="offer.html" class="scuber-button">
+            Offer lift for tomorrow
+        </a>
+    </div>
+
+
+
+</body>
+
+<script>
+
+
+    // instantiate the bloodhound suggestion engine
+    var engine = new Bloodhound({
+        datumTokenizer: Bloodhound.tokenizers.obj.whitespace('FIELD2'),
+        queryTokenizer: Bloodhound.tokenizers.whitespace,
+        local: [
+            {
+                "FIELD1": "0001",
+                "FIELD2": "Ipswich Grammar School"
+            },
+            {
+                "FIELD1": "0003",
+                "FIELD2": "Ipswich Girls Grammar School"
+            },
+            {
+                "FIELD1": "0004",
+                "FIELD2": "St Edmund's College"
+            },
+            {
+                "FIELD1": "0005",
+                "FIELD2": "Bremer State High School"
+            },
+            {
+                "FIELD1": "0006",
+                "FIELD2": "Ipswich State High School"
+            },
+            {
+                "FIELD1": "0008",
+                "FIELD2": "Bundamba State High School"
+            },
+            {
+                "FIELD1": "0009",
+                "FIELD2": "West Moreton Anglican College"
+            },
+            {
+                "FIELD1": "0010",
+                "FIELD2": "Westside Christian College"
+            },
+            {
+                "FIELD1": "0011",
+                "FIELD2": "Redbank Plains State High School"
+            },
+            {
+                "FIELD1": "0013",
+                "FIELD2": "Bundamba State Secondary College"
+            },
+            {
+                "FIELD1": "0014",
+                "FIELD2": "St Mary's College"
+            },
+            {
+                "FIELD1": "0016",
+                "FIELD2": "St Peter Claver College"
+            }]
+    });
+
+    // initialize the bloodhound suggestion engine
+    engine.initialize();
+
+    $('.typeahead').typeahead(null, {
+        displayKey: 'FIELD2',
+        source: engine.ttAdapter()
+    });
+
+//    $('.typeahead').typeahead({
+//            hint: true,
+//            highlight: true,
+//            minLength: 1
+//        },
+//  }       {
+//            name: 'schools',
+//            source: substringMatcher(schools),
+//       );
+
+    var addressPicker = new AddressPicker();
+
+    $('#address').typeahead(null, {
+        displayKey: 'description',
+        source: addressPicker.ttAdapter()
+    });
+</script>
+
+
+
+</html>

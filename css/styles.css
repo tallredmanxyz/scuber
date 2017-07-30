@@ -1,0 +1,260 @@
+html {
+    position: relative;
+    font-family: Arial;
+    overflow-x: hidden;
+    color: rgba(100, 100, 100, 1);
+    background: url('../images/bg2.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+header {
+    position: absolute;
+    top: -15vh;
+    width: 98%;
+    height: 14vh;
+    background: #BBD3CF;
+    border-radius: 3vh;
+    transition: 1s;
+
+}
+
+header .notification-title {
+    padding: 1vh;
+    height: 4vh;
+    line-height: 4vh;
+    border-top-left-radius: 3vh;
+    border-top-right-radius: 3vh;
+
+    background: #C7DBD9;
+
+}
+header .notification-title img {
+    width: 4vh;
+    display: inline-block;
+
+}
+
+header .notification-body {
+    display: block;
+    width: 100%;
+    padding: 1vh;
+    height: 10vh;
+    display: block;
+
+
+}
+
+td {
+    text-align: center;
+}
+.top-info {
+}
+.scuber-logo {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.scuber-input{
+    display: block;
+    margin: 1vh auto;
+    padding: 3px;
+    width: 90%;
+    border: .5vh solid #3F51B5;
+    border-radius: 1vh;
+    font-size: 4vh;
+    background: transparent;
+    height: 8vh;
+    line-height: 8vh;
+
+}
+
+.confirmation-tick{
+    width: 50vh;
+    border-radius: 50vh;
+    height: 50vh;
+    background: #4CAF50;
+    line-height: 50vh;
+    text-align: center;
+    color: white;
+    font-size: 30vh;
+
+}
+
+.open-invitation{
+    background: #4CAF50;
+    color: white;
+    border: .5vh #4CAF50 solid;
+    text-decoration: none;
+    font-size: 4vh;
+    padding: 2vh;
+    border-radius: 1vh;
+    display: block;
+    margin: 2vh;
+    text-align: center;
+    width: 20ch;
+}
+
+.scuber-title {
+    color: #3F51B5;
+    font-size: 10vh;
+    font-weight: bold;
+
+}
+
+.checkbox {
+    width: 4vh;
+    height: 4vh;
+}
+
+.contact-img{
+    width: 10vh;
+    border-radius: 5vh;
+}
+.contact-section {
+    padding-left: 10vh;
+    font-size: 4vh;
+}
+
+.contact-name{
+    display: inline-block;
+    line-height: 10vh;
+    height: 10vh;
+}
+.header1{
+    font-size: 4vh;
+    text-align: center;
+}
+
+.ui-menu-item {
+    font-size: 4vh;
+    text-align: center;
+}
+.school {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.tagline {
+    font-size: 4vh;
+    text-align: center;
+    color: rgba(100,100,100, .8);
+    font-style: italic;
+
+}
+
+.condition {
+    color: white;
+    display: block;
+    font-size: 4vh;
+    border-radius: 1vh;
+    width: 20ch;
+    margin: 1vh auto;
+    height: 11vh;
+    display: block;
+}
+
+.traffic-condition{
+    background: #D32F2F;
+
+}
+
+.air-condition{
+    background: #FBC02D;
+
+}
+
+.condition .condition-header{
+    padding: 1vh;
+    font-weight: bold;
+    font-size: 1.5vh;
+    text-align: left;
+}
+
+.condition-value {
+    font-size: 4vh;
+    text-align: center;
+}
+
+cards{
+    margin-top: 4vh;
+}
+.card{
+    height: 8vh;
+}
+
+.card:first-child {
+    margin-right: 8vw;
+}
+
+.scuber-button {
+    border: .5vh solid #3F51B5;
+    /*background: #3F51B5;*/
+    color: #3F51B5;
+    text-decoration: none;
+    font-size: 4vh;
+    padding: 2vh;
+    border-radius: 1vh;
+    display: block;
+    margin: 2vh;
+    background: white;
+    text-align: center;
+    width: 20ch;
+}
+
+.scuber-button:hover {
+    background: #3F51B5;
+    color: white;
+}
+
+.container {
+    width: 800px;
+    margin: 50px auto;
+}
+.typeahead-wrapper {
+    display: block;
+    border: 1vh solid #3F51B5;
+    background-color: white;
+    margin: 50px 0;
+    font-size: 4vh;
+    width: 20ch;
+    max-width: 300px;
+}
+.tt-dropdown-menu {
+    background-color: #fff;
+    border: 1px solid #000;
+    font-size: 4vh;
+    width: 20ch;
+    margin-left: 20px;
+
+}
+.tt-suggestion {
+    font-size: 4vh;
+    width: 20ch;
+    padding: 1vh;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(100,100,100, .1);
+    margin-left: 20px;
+
+}

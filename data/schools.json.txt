@@ -1,0 +1,642 @@
+[
+ {
+   "FIELD1": "0001",
+   "FIELD2": "Lighthouse Christian School"
+ },
+ {
+   "FIELD1": "0003",
+   "FIELD2": "Allora P-10 State School"
+ },
+ {
+   "FIELD1": "0004",
+   "FIELD2": "Bald Hills State School"
+ },
+ {
+   "FIELD1": "0005",
+   "FIELD2": "Fraser Coast Anglican College"
+ },
+ {
+   "FIELD1": "0006",
+   "FIELD2": "Beenleigh State School"
+ },
+ {
+   "FIELD1": "0008",
+   "FIELD2": "Yeronga State School"
+ },
+ {
+   "FIELD1": "0009",
+   "FIELD2": "Tamborine Mountain College"
+ },
+ {
+   "FIELD1": "0010",
+   "FIELD2": "Bowen State School"
+ },
+ {
+   "FIELD1": "0011",
+   "FIELD2": "Windsor State School"
+ },
+ {
+   "FIELD1": "0013",
+   "FIELD2": "Toowong State School"
+ },
+ {
+   "FIELD1": "0014",
+   "FIELD2": "Southern Cross Catholic College (Scarborough)"
+ },
+ {
+   "FIELD1": "0016",
+   "FIELD2": "Brookfield State School"
+ },
+ {
+   "FIELD1": "0017",
+   "FIELD2": "Bulimba State School"
+ },
+ {
+   "FIELD1": "0018",
+   "FIELD2": "Bundaberg Central State School"
+ },
+ {
+   "FIELD1": "0019",
+   "FIELD2": "Bundamba State School"
+ },
+ {
+   "FIELD1": "0020",
+   "FIELD2": "Calliope State School"
+ },
+ {
+   "FIELD1": "0021",
+   "FIELD2": "Clermont State School"
+ },
+ {
+   "FIELD1": "0022",
+   "FIELD2": "Cleveland State School"
+ },
+ {
+   "FIELD1": "0023",
+   "FIELD2": "Ormiston State School"
+ },
+ {
+   "FIELD1": "0024",
+   "FIELD2": "Condamine State School"
+ },
+ {
+   "FIELD1": "0025",
+   "FIELD2": "Acacia Ridge State School"
+ },
+ {
+   "FIELD1": "0027",
+   "FIELD2": "Mitchell State School"
+ },
+ {
+   "FIELD1": "0028",
+   "FIELD2": "Dalby State School"
+ },
+ {
+   "FIELD1": "0029",
+   "FIELD2": "Ramsay State School"
+ },
+ {
+   "FIELD1": "0031",
+   "FIELD2": "Drayton State School"
+ },
+ {
+   "FIELD1": "0032",
+   "FIELD2": "Coowonga State School"
+ },
+ {
+   "FIELD1": "0033",
+   "FIELD2": "Hendra State School"
+ },
+ {
+   "FIELD1": "0034",
+   "FIELD2": "Eight Mile Plains State School"
+ },
+ {
+   "FIELD1": "0035",
+   "FIELD2": "Enoggera State School"
+ },
+ {
+   "FIELD1": "0036",
+   "FIELD2": "Fig Tree Pocket State School"
+ },
+ {
+   "FIELD1": "0038",
+   "FIELD2": "Albert State School"
+ },
+ {
+   "FIELD1": "0039",
+   "FIELD2": "Woongoolba State School"
+ },
+ {
+   "FIELD1": "0040",
+   "FIELD2": "Freestone State School"
+ },
+ {
+   "FIELD1": "0041",
+   "FIELD2": "Gatton State School"
+ },
+ {
+   "FIELD1": "0042",
+   "FIELD2": "Gayndah State School"
+ },
+ {
+   "FIELD1": "0043",
+   "FIELD2": "Nundah State School"
+ },
+ {
+   "FIELD1": "0044",
+   "FIELD2": "Gladstone Central State School"
+ },
+ {
+   "FIELD1": "0045",
+   "FIELD2": "Goodna State School"
+ },
+ {
+   "FIELD1": "0046",
+   "FIELD2": "Goondiwindi State School"
+ },
+ {
+   "FIELD1": "0047",
+   "FIELD2": "Gracemere State School"
+ },
+ {
+   "FIELD1": "0049",
+   "FIELD2": "Gympie Central State School"
+ },
+ {
+   "FIELD1": "0050",
+   "FIELD2": "Gilston State School"
+ },
+ {
+   "FIELD1": "0051",
+   "FIELD2": "One Mile State School"
+ },
+ {
+   "FIELD1": "0052",
+   "FIELD2": "Helidon State School"
+ },
+ {
+   "FIELD1": "0053",
+   "FIELD2": "Highfields State School"
+ },
+ {
+   "FIELD1": "0054",
+   "FIELD2": "Geham State School"
+ },
+ {
+   "FIELD1": "0055",
+   "FIELD2": "Inglewood State School"
+ },
+ {
+   "FIELD1": "0057",
+   "FIELD2": "Bouldercombe State School"
+ },
+ {
+   "FIELD1": "0058",
+   "FIELD2": "Gunalda State School"
+ },
+ {
+   "FIELD1": "0059",
+   "FIELD2": "Ipswich Central State School"
+ },
+ {
+   "FIELD1": "0060",
+   "FIELD2": "Craigslea State School"
+ },
+ {
+   "FIELD1": "0061",
+   "FIELD2": "Ipswich North State School"
+ },
+ {
+   "FIELD1": "0062",
+   "FIELD2": "Sunnybank State School"
+ },
+ {
+   "FIELD1": "0063",
+   "FIELD2": "Isisford State School"
+ },
+ {
+   "FIELD1": "0064",
+   "FIELD2": "Jondaryan State School"
+ },
+ {
+   "FIELD1": "0065",
+   "FIELD2": "Biggera Waters State School"
+ },
+ {
+   "FIELD1": "0067",
+   "FIELD2": "Lakes Creek State School"
+ },
+ {
+   "FIELD1": "0068",
+   "FIELD2": "Leyburn State School"
+ },
+ {
+   "FIELD1": "0069",
+   "FIELD2": "Logan Reserve State School"
+ },
+ {
+   "FIELD1": "0070",
+   "FIELD2": "Loganholme State School"
+ },
+ {
+   "FIELD1": "0071",
+   "FIELD2": "Mackay Central State School"
+ },
+ {
+   "FIELD1": "0072",
+   "FIELD2": "Maryborough Central State School"
+ },
+ {
+   "FIELD1": "0073",
+   "FIELD2": "Moggill State School"
+ },
+ {
+   "FIELD1": "0074",
+   "FIELD2": "Osborne State School"
+ },
+ {
+   "FIELD1": "0075",
+   "FIELD2": "Mount Perry State School"
+ },
+ {
+   "FIELD1": "0076",
+   "FIELD2": "Murphy's Creek State School"
+ },
+ {
+   "FIELD1": "0077",
+   "FIELD2": "Nanango State School"
+ },
+ {
+   "FIELD1": "0078",
+   "FIELD2": "Sherwood State School"
+ },
+ {
+   "FIELD1": "0079",
+   "FIELD2": "Oxley State School"
+ },
+ {
+   "FIELD1": "0080",
+   "FIELD2": "Petrie Terrace State School"
+ },
+ {
+   "FIELD1": "0081",
+   "FIELD2": "Pimpama State School"
+ },
+ {
+   "FIELD1": "0082",
+   "FIELD2": "Western Cape College - Mapoon"
+ },
+ {
+   "FIELD1": "0084",
+   "FIELD2": "Gabbinbar State School"
+ },
+ {
+   "FIELD1": "0085",
+   "FIELD2": "Kenmore SHS - Special Education Program"
+ },
+ {
+   "FIELD1": "0086",
+   "FIELD2": "Peak Crossing State School"
+ },
+ {
+   "FIELD1": "0088",
+   "FIELD2": "Redbank Plains State School"
+ },
+ {
+   "FIELD1": "0089",
+   "FIELD2": "Lockyer District SHS - Special Education Program"
+ },
+ {
+   "FIELD1": "0091",
+   "FIELD2": "Islamic College of Brisbane"
+ },
+ {
+   "FIELD1": "0092",
+   "FIELD2": "Rolleston State School"
+ },
+ {
+   "FIELD1": "0094",
+   "FIELD2": "Samford State School"
+ },
+ {
+   "FIELD1": "0096",
+   "FIELD2": "Ananda Marga River School"
+ },
+ {
+   "FIELD1": "0097",
+   "FIELD2": "Dysart State School"
+ },
+ {
+   "FIELD1": "0098",
+   "FIELD2": "MacKillop Catholic Primary School (Andergrove)"
+ },
+ {
+   "FIELD1": "0099",
+   "FIELD2": "Daisy Hill State School"
+ },
+ {
+   "FIELD1": "0100",
+   "FIELD2": "Windsor SS - Special Education Program"
+ },
+ {
+   "FIELD1": "0101",
+   "FIELD2": "Mackenzie River State School"
+ },
+ {
+   "FIELD1": "0102",
+   "FIELD2": "Springsure State School"
+ },
+ {
+   "FIELD1": "0103",
+   "FIELD2": "St Lawrence State School"
+ },
+ {
+   "FIELD1": "0105",
+   "FIELD2": "Taroom State School"
+ },
+ {
+   "FIELD1": "0106",
+   "FIELD2": "Tent Hill Lower State School"
+ },
+ {
+   "FIELD1": "0107",
+   "FIELD2": "Tiaro State School"
+ },
+ {
+   "FIELD1": "0108",
+   "FIELD2": "Ironside State School"
+ },
+ {
+   "FIELD1": "0110",
+   "FIELD2": "Toowoomba North State School"
+ },
+ {
+   "FIELD1": "0111",
+   "FIELD2": "Goombungee State School"
+ },
+ {
+   "FIELD1": "0113",
+   "FIELD2": "Townsville Central State School"
+ },
+ {
+   "FIELD1": "0114",
+   "FIELD2": "Haigslea State School"
+ },
+ {
+   "FIELD1": "0115",
+   "FIELD2": "Amberley District State School"
+ },
+ {
+   "FIELD1": "0116",
+   "FIELD2": "Warwick Central State School"
+ },
+ {
+   "FIELD1": "0117",
+   "FIELD2": "Cordalba State School"
+ },
+ {
+   "FIELD1": "0118",
+   "FIELD2": "Dutton Park SS - Special Education Program"
+ },
+ {
+   "FIELD1": "0119",
+   "FIELD2": "Westwood State School"
+ },
+ {
+   "FIELD1": "0121",
+   "FIELD2": "Fairview Heights SS - Special Education Program"
+ },
+ {
+   "FIELD1": "0122",
+   "FIELD2": "Woodhill State School"
+ },
+ {
+   "FIELD1": "0123",
+   "FIELD2": "Logan Village State School"
+ },
+ {
+   "FIELD1": "0124",
+   "FIELD2": "Coomera State School"
+ },
+ {
+   "FIELD1": "0125",
+   "FIELD2": "Morayfield State School"
+ },
+ {
+   "FIELD1": "0126",
+   "FIELD2": "Glenvale State School"
+ },
+ {
+   "FIELD1": "0127",
+   "FIELD2": "Tingalpa State School"
+ },
+ {
+   "FIELD1": "0128",
+   "FIELD2": "Upper Mount Gravatt State School"
+ },
+ {
+   "FIELD1": "0129",
+   "FIELD2": "Stanwell State School"
+ },
+ {
+   "FIELD1": "0130",
+   "FIELD2": "Waterford State School"
+ },
+ {
+   "FIELD1": "0131",
+   "FIELD2": "Rosewood State School"
+ },
+ {
+   "FIELD1": "0132",
+   "FIELD2": "Stanthorpe State School"
+ },
+ {
+   "FIELD1": "0133",
+   "FIELD2": "Geebung SPEC S - Early Childhood Development Program"
+ },
+ {
+   "FIELD1": "0134",
+   "FIELD2": "St George State School"
+ },
+ {
+   "FIELD1": "0135",
+   "FIELD2": "Cawarral State School"
+ },
+ {
+   "FIELD1": "0136",
+   "FIELD2": "Cardwell State School"
+ },
+ {
+   "FIELD1": "0140",
+   "FIELD2": "Pullenvale State School"
+ },
+ {
+   "FIELD1": "0141",
+   "FIELD2": "Ravenswood State School"
+ },
+ {
+   "FIELD1": "0142",
+   "FIELD2": "Surat State School"
+ },
+ {
+   "FIELD1": "0143",
+   "FIELD2": "Mansfield State School"
+ },
+ {
+   "FIELD1": "0144",
+   "FIELD2": "Roma State College - Junior Campus"
+ },
+ {
+   "FIELD1": "0145",
+   "FIELD2": "Grandchester State School"
+ },
+ {
+   "FIELD1": "0149",
+   "FIELD2": "Glamorgan Vale State School"
+ },
+ {
+   "FIELD1": "0150",
+   "FIELD2": "Tambo State School"
+ },
+ {
+   "FIELD1": "0151",
+   "FIELD2": "Yangan State School"
+ },
+ {
+   "FIELD1": "0152",
+   "FIELD2": "Mutdapilly State School"
+ },
+ {
+   "FIELD1": "0153",
+   "FIELD2": "Sandgate State School"
+ },
+ {
+   "FIELD1": "0154",
+   "FIELD2": "Emu Creek State School"
+ },
+ {
+   "FIELD1": "0155",
+   "FIELD2": "Allenstown State School"
+ },
+ {
+   "FIELD1": "0157",
+   "FIELD2": "Millchester State School"
+ },
+ {
+   "FIELD1": "0158",
+   "FIELD2": "Beaudesert State School"
+ },
+ {
+   "FIELD1": "0159",
+   "FIELD2": "Mudgeeraba Creek State School"
+ },
+ {
+   "FIELD1": "0160",
+   "FIELD2": "Cedar Creek State School"
+ },
+ {
+   "FIELD1": "0161",
+   "FIELD2": "Bundaberg North State School"
+ },
+ {
+   "FIELD1": "0162",
+   "FIELD2": "Clontarf Beach State School"
+ },
+ {
+   "FIELD1": "0163",
+   "FIELD2": "Killarney P-10 State School"
+ },
+ {
+   "FIELD1": "0164",
+   "FIELD2": "Humpybong State School"
+ },
+ {
+   "FIELD1": "0165",
+   "FIELD2": "Croydon State School"
+ },
+ {
+   "FIELD1": "0166",
+   "FIELD2": "Oakey State School"
+ },
+ {
+   "FIELD1": "0167",
+   "FIELD2": "Mossman State School"
+ },
+ {
+   "FIELD1": "0168",
+   "FIELD2": "Kilkivan State School"
+ },
+ {
+   "FIELD1": "0170",
+   "FIELD2": "Fernvale State School"
+ },
+ {
+   "FIELD1": "0171",
+   "FIELD2": "Clare State School"
+ },
+ {
+   "FIELD1": "0172",
+   "FIELD2": "Clinton State School"
+ },
+ {
+   "FIELD1": "0173",
+   "FIELD2": "Comet State School"
+ },
+ {
+   "FIELD1": "0175",
+   "FIELD2": "Noosaville State School"
+ },
+ {
+   "FIELD1": "0176",
+   "FIELD2": "Millmerran State School"
+ },
+ {
+   "FIELD1": "0177",
+   "FIELD2": "Cooktown State School"
+ },
+ {
+   "FIELD1": "0178",
+   "FIELD2": "Georgetown State School"
+ },
+ {
+   "FIELD1": "0179",
+   "FIELD2": "Meringandan State School"
+ },
+ {
+   "FIELD1": "0180",
+   "FIELD2": "Jinibara State School"
+ },
+ {
+   "FIELD1": "0181",
+   "FIELD2": "Tewantin State School"
+ },
+ {
+   "FIELD1": "0182",
+   "FIELD2": "Wallumbilla State School"
+ },
+ {
+   "FIELD1": "0183",
+   "FIELD2": "Petrie State School"
+ },
+ {
+   "FIELD1": "0184",
+   "FIELD2": "Nebo State School"
+ },
+ {
+   "FIELD1": "0185",
+   "FIELD2": "Charleville State School"
+ },
+ {
+   "FIELD1": "0186",
+   "FIELD2": "Ashgrove State School"
+ },
+ {
+   "FIELD1": "0187",
+   "FIELD2": "Begonia State School"
+ },
+ {
+   "FIELD1": "0190",
+   "FIELD2": "Albany Creek State School"
+ }
+]
